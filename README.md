@@ -6,6 +6,11 @@
 https://www.bezkoder.com/vue-3-crud/
 ```
 
+## API
+```
+https://mockapi.io/docs
+```
+
 ## Project setup
 ```
 yarn install
